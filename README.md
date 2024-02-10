@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Tejas Shendge
+- 👀 I’m interested in Data Analytics
+- 🌱 I’m currently learning MS Excel, MySQL, PostgreSQL, PowerBI, and Python programming for Data Analysis
+- 📫 You can reach me at tejasshendgeatp@gmail.com
